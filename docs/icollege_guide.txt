@@ -1,0 +1,40 @@
+Georgia State University iCollege Guide
+
+iCollege is Georgia State University's online learning management system, found at icollege.gsu.edu. It is powered by Desire2Learn (D2L). Every GSU course uses iCollege to some extent — even in-person classes post syllabi, assignments, and grades there.
+
+What iCollege Is Used For:
+- Accessing your course syllabi and course materials
+- Submitting assignments and papers online
+- Taking online quizzes and exams
+- Viewing grades for each assignment
+- Reading announcements from your professors
+- Participating in discussion boards
+- Accessing course content for fully online classes
+
+How to Log Into iCollege:
+1. Go to icollege.gsu.edu
+2. Log in with your GSU CampusID and password
+3. Your enrolled courses appear on your dashboard as tiles
+4. Click on any course tile to enter that course
+
+iCollege Tips for Students:
+- Check iCollege every day, especially during the first week of classes — professors post syllabus and first assignments immediately
+- Turn on iCollege notifications (email or text) so you don't miss announcements or new assignments
+- Assignments have exact due times, not just dates — an assignment due Monday at 11:59 PM will lock you out at midnight, so don't wait until the last minute
+- If iCollege is down during a deadline, take a screenshot as proof and email your professor immediately
+- Some professors post grades on iCollege within days; others take weeks — check the syllabus for grading timelines
+- For online exams, use a reliable internet connection and a laptop, not a phone
+- The iCollege mobile app exists but is limited — use a desktop or laptop for submitting important assignments
+
+Online vs. In-Person Classes at GSU:
+- Fully online courses (marked "Online" in the course catalog) are conducted entirely through iCollege
+- Hybrid courses meet in-person some days and online other days — check your syllabus for the schedule
+- In-person courses still use iCollege for syllabus, assignments, and grades
+
+Getting Help with iCollege:
+- Contact the Digital Learning Help Desk for technical issues
+- The Help Center is at gsutech.service-now.com/sp
+- Digital Learning resources are at cetloe.gsu.edu/digital-learning-at-georgia-state
+
+Student Reviews of iCollege:
+Many GSU students find iCollege functional but not the most intuitive system. Common complaints include finding older course materials buried in folders and missing notifications if alerts are not set up. The best strategy is to check iCollege daily rather than relying on notifications alone.

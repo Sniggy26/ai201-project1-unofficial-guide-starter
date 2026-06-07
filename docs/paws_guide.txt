@@ -1,0 +1,47 @@
+Georgia State University PAWS Portal Guide
+
+PAWS stands for Panther Access to Web Services. It is Georgia State University's main student portal, found at paws.gsu.edu. Every GSU student uses PAWS to manage their academic and financial life at the university.
+
+What You Can Do in PAWS:
+- Register for classes each semester
+- View your grades and unofficial transcripts
+- Check your account balance and make tuition payments
+- View and accept financial aid awards
+- Update your emergency contact information (required every semester)
+- View transfer credit that has been evaluated
+- Print a certificate of enrollment
+- Check for holds on your account
+- Access DegreeWorks to audit your degree progress
+
+How to Set Up PAWS as a New Student:
+1. Activate your CampusID at Georgia State's website
+2. Allow 24 hours after activation for your PAWS account to be created
+3. Log in at paws.gsu.edu using your CampusID and password
+
+Common PAWS Issues Students Face:
+
+Holds on Your Account:
+A hold on your PAWS account will prevent you from registering for classes. Common reasons for holds include:
+- Not updating your emergency contact information (this is required every semester)
+- Unpaid tuition balance
+- Missing financial aid documents
+- Academic issues like academic probation
+
+To resolve a hold: Check your PAWS account to see if there is a contact person listed on the hold. Then email registrar@gsu.edu with details about the hold removal request. Act fast — holds that are not cleared before registration opens will prevent you from getting into the classes you want.
+
+Getting Dropped from Classes:
+Students are typically dropped from classes due to:
+- Non-payment of tuition by the deadline
+- Failure to complete or accept all financial aid documents
+- Exclusion from the university
+
+To avoid being dropped, check your student email and PAWS account regularly before drop/add periods end.
+
+DegreeWorks:
+DegreeWorks is a tool inside PAWS that shows your degree audit — which requirements you have completed, which are in progress, and which you still need. Students say the updated version is much cleaner and clearer. Use it every semester when planning your schedule.
+
+Pro Tips:
+- Check PAWS every single week, not just at registration time
+- Set up your student email forwarding to your personal email so you never miss official communications
+- Your emergency contact update hold will appear every semester — clear it immediately or you will be locked out of registration
+- Use the GPA Calculator on the advisement website to plan your semester and understand what grades you need
